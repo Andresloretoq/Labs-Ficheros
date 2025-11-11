@@ -2,7 +2,7 @@
 # Autor: Andres Loreto Quiros
 # Fecha: 4 de Noviembre 2025
 # Tema: Ficheros
-# Makefile para compilar los laboratorios 01 y 02
+# Makefile para compilar lab01 y lab02
 # =====================================================
 
 CC = gcc
