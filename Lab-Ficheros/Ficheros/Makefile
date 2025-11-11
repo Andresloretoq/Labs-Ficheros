@@ -1,6 +1,6 @@
 # =====================================================
 # Autor: Andres Loreto Quiros
-# Fecha: 4 de Noviembre 2025
+# Fecha: 11 de Noviembre 2025
 # Tema: Ficheros
 # Makefile para compilar lab01 y lab02
 # =====================================================
